@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1513913321 source:h:\codeblocks\codes\comp\src\comp.cpp
+	"comp.h"
+
+1513909464 h:\codeblocks\codes\comp\include\comp.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string>
+	<algorithm>
+	<vector>
+	<stdio.h>
+	<cstring>
+	<string.h>
+

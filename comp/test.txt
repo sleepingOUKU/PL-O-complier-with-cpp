@@ -1,0 +1,15 @@
+const A=0,B=1;
+var c,d;
+procedure p;
+  const e=1,f=2;
+	procedure r;
+	var C;
+	begin
+	   write(e+f+A+B);
+	end;
+  begin
+	call r;
+  end;
+begin
+call p;
+end;
